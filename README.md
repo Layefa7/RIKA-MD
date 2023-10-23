@@ -79,12 +79,6 @@
 
 </p>
 
-<p align="center" >
-    <a href="https://github.com/codespaces/new">
-    <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
-    </a>
-
-</p>
 
 <p align="center" >
     <br>
