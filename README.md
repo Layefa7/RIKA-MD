@@ -68,7 +68,6 @@
 
 <br>
  
-<h4 align="center"> Deploy on CodesSpace
 </h4>
 
 </p>
