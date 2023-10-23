@@ -6,7 +6,7 @@
 <h1 align="center"> 𝚁𝙸𝙺𝙰-𝙼𝙳 𝚄𝙻𝚃𝚁𝙰 𝙱𝙾𝚃
 </h1>
 <p align="center"> 
- ! ᴵ ᴬᵐ ᴬ ᵂʰᵃᵗˢᵃᵖᵖ ᴮᵒᵗ ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ˢᵃᵐ ᵖᵃⁿᵈᵉʸ ᵃⁿᵈ ʳᵉᶜᵒᵈᵉᵈ ᵇʸ RIKA  ᵀᵒ ᴰᵒ ᴱᵛᵉʳʸᵗʰⁱⁿᵍ ᵀʰᵃᵗ ᴵˢ ᴾᵒˢˢⁱᵇˡᵉ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴮᵃˢᵉᵈ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴹᵘˡᵗⁱ ᴰᵉᵛⁱᶜᵉ⁽ᴹᴰ⁾ ˢᵘᵖᵖᵒʳᵗ.
+ ! ᴵ ᴬᵐ ᴬ ᵂʰᵃᵗˢᵃᵖᵖ ᴮᵒᵗ ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ˢᵃᵐ ᵖᵃⁿᵈᵉʸ ᵃⁿᵈ ʳᵉᶜᵒᵈᵉᵈ ᵇʸ 𝚁𝙸𝙺𝙰  ᵀᵒ ᴰᵒ ᴱᵛᵉʳʸᵗʰⁱⁿᵍ ᵀʰᵃᵗ ᴵˢ ᴾᵒˢˢⁱᵇˡᵉ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴮᵃˢᵉᵈ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴹᵘˡᵗⁱ ᴰᵉᵛⁱᶜᵉ⁽ᴹᴰ⁾ ˢᵘᵖᵖᵒʳᵗ.
 
   <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝙸𝚉𝚄𝙺𝚄-𝙼𝙳;ULTRA+BOT;CREATED+BY+RIKA;PUBLIC+RELEASED; ...;TEAM 𝚁𝙸𝙺𝙰-𝙼𝙳." alt="Typing SVG" /></a>
@@ -23,9 +23,9 @@
   
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Layefa7}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Layefa7}/count.svg" alt="Layefa7 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
+ <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ BOT VIP CLASS -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
 </p>
