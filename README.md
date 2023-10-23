@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS">
-    <img alt=Support height="400" src="https://telegra.ph/file/be4fad9b026c96936cbfe.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/97de15827fc042644a964.jpg"> 
     </p>
 <h1 align="center"> RIKA-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
 </h1>
