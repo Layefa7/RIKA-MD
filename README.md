@@ -9,7 +9,7 @@
  ! ɪ ᴀᴍ ᴀ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʀɪᴋᴀ ᴀɴᴅ ʀᴇᴄᴏʀᴅᴇᴅ ʙʏ ʀɪᴋᴀ ᴛᴏ ᴅᴏ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ᴘᴏssɪʙʟᴇ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ(ᴍᴅ) sᴜᴘᴘᴏʀᴛ.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+ʀɪᴋᴀ-𝙼𝙳;ULTRA+BOT;CREATED+BY+RIKA;PUBLIC+RELEASED; ...;TEAM 𝚁𝙸𝙺𝙰-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+RIKA-𝙼𝙳;ULTRA+BOT;CREATED+BY+RIKA;PUBLIC+RELEASED; ...;TEAM 𝚁𝙸𝙺𝙰-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   <br>
 
