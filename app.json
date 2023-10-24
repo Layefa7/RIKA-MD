@@ -1,7 +1,7 @@
 {
   "name": "RIKA-MD by Rika ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://telegra.ph/file/97de15827fc042644a964.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "RikaBot", "Secktor","RIKAMD","theme bot","multi device","baileys","RIKA"],
   "success_url": "/",
   "stack": "container",
@@ -28,7 +28,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://telegra.ph/file/97de15827fc042644a964.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -36,7 +36,7 @@
     },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
-     "value": "chat.whatsapp.com,fb.com,instagram.com",
+     "value": "chat.whatsapp.com,fb.com,instagram.com,.com",
      "required" :false
     },
      "ANTILINK_ACTION": {
