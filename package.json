@@ -1,15 +1,15 @@
 {
- "name": "rika-md",
+ "name": "izuku-md",
  "version": "0.0.7",
- "description": "Multi device whatsapp bot by Layefa7.",
+ "description": "Multi device whatsapp bot by excelottah6.",
  "main": "lib/client.js",
  "type": "commonjs",
  "license": "GPL-3.0",
  "scripts": {
-  "start": "pm2 start lib/client.js --deep-monitoring --attach --name rika",
-  "stop": "pm2 stop rika"
+  "start": "pm2 start lib/client.js --deep-monitoring --attach --name izuku",
+  "stop": "pm2 stop izuku"
  },
- "author": "Layefa7",
+ "author": "excelottah6",
 "dependencies": {
   "node-schedule": "^2.0.0",
   "@adiwajshing/keyed-db": "^0.2.4",
@@ -54,7 +54,7 @@
   "path": "^0.12.7",
   "pm2": "^5.2.0",
   "request": "^2.88.2",
-  "rika-pack": "latest",
+  "secktor-pack": "latest",
   "simple-git": "^3.16.1",
   "translatte": "^3.0.1",
   "util": "^0.12.4",
@@ -70,10 +70,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/Layefa7/RIKA-MD.git"
+  "url": "git+https://github.com/excelottah/IZUKU-MD.git"
  },
  "bugs": {
-  "url": "https://github.com/Layefa7/RIKA-MD/issues"
+  "url": "https://github.com/excelottah6/IZUKU-MD/issues"
  },
- "homepage": "https://github.com/Layefa7/RIKA-MD#readme"
+ "homepage": "https://github.com/excelottah6/IZUKU-MD#readme"
 }
