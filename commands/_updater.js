@@ -38,7 +38,7 @@ async (Void, citel, text, { isCreator }) => {
 
     updating = true;
     let asciiBorder = '╔══════════════════════════╗\n';
-    asciiBorder += '║    Updater - IZUKU MD    ║\n';
+    asciiBorder += '║    Updater - RIKA MD    ║\n';
     asciiBorder += '╚══════════════════════════╝\n';
 
     // Create a loading bar
