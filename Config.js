@@ -15,7 +15,7 @@ global.devs = '994408223019';
 global.website = 'https://github.com/Layefa7/RIKA-MD' //wa.me/+994408223019
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'RIKA 𝐁𝐨𝐭' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'RIKA-MD' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'rika' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'rika' : process.env.PACK_INFO.split(";")[0],
@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'RIKA',
+  LANG: process.env.THEME|| 'GARENA',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
