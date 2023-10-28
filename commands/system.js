@@ -55,7 +55,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'IZUKU  Session',
+                        title: 'RIKA  Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
