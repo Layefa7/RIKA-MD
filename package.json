@@ -9,7 +9,7 @@
   "start": "pm2 start lib/client.js --deep-monitoring --attach --name rika",
   "stop": "pm2 stop rika"
  },
- "author": "excelottah6",
+ "author": "Layefa7",
 "dependencies": {
   "node-schedule": "^2.0.0",
   "@adiwajshing/keyed-db": "^0.2.4",
