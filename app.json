@@ -1,14 +1,14 @@
 {
-  "name": "RIKA-MD by Rika ",
+  "name": "RIKA-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/97de15827fc042644a964.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "RikaBot", "Secktor","RIKAMD","theme bot","multi device","baileys","RIKA"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "rikabot", "Secktor","RIKAMD","theme bot","multi device","baileys","rika"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "RIKA MENDOSKA"
+      "value": "RIKA"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
