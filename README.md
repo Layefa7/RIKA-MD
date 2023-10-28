@@ -1,15 +1,16 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS">
-    <img alt=Support height="400" src="https://telegra.ph/file/97de15827fc042644a964.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/97de15827fc042644a964.jpg"> 
     </p>
 <h1 align="center"> 𝚁𝙸𝙺𝙰-𝙼𝙳 𝚄𝙻𝚃𝚁𝙰 𝙱𝙾𝚃
 </h1>
 <p align="center"> 
- ! ɪ ᴀᴍ ᴀ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʀɪᴋᴀ ᴀɴᴅ ʀᴇᴄᴏʀᴅᴇᴅ ʙʏ ʀɪᴋᴀ ᴛᴏ ᴅᴏ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ᴘᴏssɪʙʟᴇ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ(ᴍᴅ) sᴜᴘᴘᴏʀᴛ.
-
+ 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+RIKA-𝙼𝙳;ULTRA+BOT;CREATED+BY+RIKA;PUBLIC+RELEASED; ...;TEAM 𝚁𝙸𝙺𝙰-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">  <img alt="whatsapp Group" src="https://img.shields.io/badge/ RIKA Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+</a>
+  </a>
   </p>
   <br>
 
@@ -25,9 +26,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Layefa7}/count.svg" alt="Layefa7 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BOT VIP CLASS -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
-  </a>
+
 </p>
 
 ---
@@ -96,7 +95,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Layefa/RIKA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Layefa7/RIKA-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
