@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 RUN git clone https://github.com/Layefa7/RIKA-MD /root/Layefa7
-WORKDIR /root/excelottah6/
+WORKDIR /root/Layefa7/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
