@@ -87,7 +87,7 @@ Secktor.cmd({
                    }
   
                 }
-                str+= `*⚡️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*Made by 🥷 Excel* `
+                str+= `*⚡️Type:* _${prefix}help cmd_ name to know more about specific command.\n*Eg:* _${prefix}help attp_\n*Made by RIKA* `
                 let buttonMessaged = {
                     image: { url: await botpic() },
                     caption: str
@@ -170,7 +170,7 @@ Secktor.cmd({
     pattern: "file",
     desc: "to get extact name where that command is in repo.\nSo user can edit that.",
     category: "general",
-    react: "🥷",
+    react: "🤡",
     filename: __filename
 },
 async(Void, citel, text) => {
