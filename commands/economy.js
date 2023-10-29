@@ -321,7 +321,7 @@ return await citel.reply(`🍀User: ${citel.pushName}\n\n_🪙${balance.bank}/${
 	const typ = ['ran','rob','caught'];
     const random = typ[Math.floor(Math.random() * typ.length)];
     if (k > balance1.wallet) return citel.reply(`*☹️ You don't have enough money to pay incase you get caught*`);
-    if (k > balance2.wallet) return citel.reply(`*Sorry, your victim is very poor and has no money please let the bum just 🤷🏽‍♂️ let go🫤.*`);
+    if (k > balance2.wallet) return citel.reply(`*Sorry, your victim is too poor 🤷🏽‍♂️ let go🫤.*`);
     let tpy = random    
     switch (random) {
        
@@ -340,7 +340,7 @@ return await citel.reply(`🍀User: ${citel.pushName}\n\n_🪙${balance.bank}/${
         case 'caught':
            const rmoney = Math.floor(Math.random() * 1000)
            await eco.deduct(user1, secktor, rmoney);
-           await citel.reply(`*Sorry THE FBI👮 caught up with you, you paid ${rmoney} 🪙 from wallet🥹.*`)
+           await citel.reply(`*Sorry FBI👮 caught up with you, you paid ${rmoney} 🪙 from wallet🥹.*`)
            ////citel.react('😦')
              break
 default:
@@ -374,7 +374,7 @@ default:
 		const query = text.trim();
         const secktor = "secktor"
         const withdraw = await eco.withdraw(user, secktor, query);
-        if(withdraw.noten) return citel.reply('*🏧 Insufficient fund in bank..Go and hustle for money🫤*'); //if user states more than whats in his wallet
+        if(withdraw.noten) return citel.reply('*🏧 Insufficient fund in bank🫤*'); //if user states more than whats in his wallet
         const add = eco.give(user, secktor, query);
           citel.reply(`*🏧 ALERT* \n _🪙${withdraw.amount} has been withdrawn from your wallet💰._`)
     }
