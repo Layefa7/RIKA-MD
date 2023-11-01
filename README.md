@@ -52,8 +52,8 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/excelottah6/IZUKU-MD">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
+    <a href="https://replit/github/Layefa7/RIKA-MD">
+    <img src="https://replit/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
 
