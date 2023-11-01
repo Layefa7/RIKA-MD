@@ -11,8 +11,8 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Rika-Md
- * @author : excel <https://github.com/Layefa7>
- * @description : Rika,A Multi-functional whatsapp bot.
+ * @author : rika <https://github.com/Layefa7
+ * @description : rika,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -61,7 +61,7 @@ cmd({
     },
     async(Void, citel, text) => {
         const { data } = await axios.get(`https://nekos.life/api/v2/fact`)
-        return citel.reply(`*Fact:* ${data.fact}\n\n*Powered by Secktor*`)   
+        return citel.reply(`*Fact:* ${data.fact}\n\n*Powered by IZUKU*`)   
     }
 
 )
