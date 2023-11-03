@@ -10,6 +10,11 @@
   "description": "Name of Bot Owner",
       "value": "RIKA MENDOSKA"
   },
+  "ALWAYS_ONLINE": {
+    "description": "Bot always online",
+     "value": "false",
+     "required" :false
+    },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
      "required" :false
