@@ -1,9 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jazzy&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=𝗜'𝗠 𝗥𝗜𝗞𝗔-𝗠𝗗 ❤️;Better+Device+Whatsapp+Bot;Made+By+RIKA" alt="Typing SVG" /></a>
   <p align="center">  
-    
 
-   
 <p align="center">
   
 </p>
@@ -11,33 +9,22 @@
   <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS">
     <img alt=Support height="300" src="https://telegra.ph/file/97de15827fc042644a964.jpg"> 
     </p>
-<h1 align="center"> 𝚁𝙸𝙺𝙰-𝙼𝙳 𝚄𝙻𝚃𝚁𝙰 𝙱𝙾𝚃
-</h1>
-<p align="center"> 
- 
-  <div align="center">
-<a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">  <img alt="whatsapp Group" src="https://img.shields.io/badge/ RIKA Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
-</a>
-  </a>
-  </p>
-  <br>
-
-</p>
-
-<p align="right">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Layefa7/RIKA-MD" />
-  </a>
-  
-  
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Layefa7}/count.svg" alt="Layefa7 :: Visitor's Count" /></p>
+    
 <p align="center">
+<a href="https://github.com/Layefa7"><img title="Owner" src="https://img.shields.io/badge/Owner-Rika-Mendoska.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
+ <a href="https://github.com/Layefa7/RIKA-MD/blob/main/LICENCE">
+<img src='https://img.shields.io/github/license/Layefa7/RIKA-MD?color=%231e81b0&style=for-the-badge' width="143px">
+<p align="center"> 
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">
+   <img alt="whatsapp" src="https://img.shields.io/badge/RIKA-Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a aria-label="Join our chats" href="https://chat.whatsapp.com/JfqGkHN8yqSA8xLspDd4Vo" target="_blank">
+   <img alt="whatsapp" src="https://img.shields.io/badge/RIKA Public Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Layefa7}/count.svg" alt="Layefa7 :: Visitor's Count" /></p>
+   
 </p>
 
----
 # ```Scan QR Code```
 
 1. ***Get [SESSION-ID](https://replit.com/@Layefa7/RIKA-MD?v=1) by scanning QR code. `Whatsapp>Three dots>Linked Devices`***
