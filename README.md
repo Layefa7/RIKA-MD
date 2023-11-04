@@ -175,8 +175,14 @@
     <br>
 </p>
 
+</p>
 
 
-</details>
-
-<br>
+  
+## ```𝘛𝘢𝘱 𝘈𝘯𝘺 𝘓𝘖𝘎𝘖 𝘛𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
+ <p align="centre">
+  <a href="mailto: rikamd1@mail.ru">
+    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
+   <a href="https://wa.me/994408223019?text=Hi%20RIKA-MENDOSKA%20Sir...%20I%20need%20some%20help%20in%20RIKA-MD">
+    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
+  </p>
