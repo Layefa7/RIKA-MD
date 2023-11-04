@@ -1,3 +1,11 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jazzy&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=𝗜'𝗠 𝗥𝗜𝗞𝗔-𝗠𝗗 ❤️;Better+Device+Whatsapp+Bot;Made+By+RIKA" alt="Typing SVG" /></a>
+  <p align="center">  
+    
+
+   
+<p align="center">
+  
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS">
