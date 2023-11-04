@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jazzy&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=𝗜'𝗠 𝗥𝗜𝗞𝗔-𝗠𝗗 ❤️;Better+Device+Whatsapp+Bot;Made+By+RIKA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jazzy&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=𝗜'𝗠 𝗥𝗜𝗞𝗔-𝗠𝗗 ❤️;Made+By+RIKA" alt="Typing SVG" /></a>
   <p align="center">  
 
 <p align="center">
@@ -37,10 +37,8 @@
 # THIS TIME  DEPLOY 
 # ```Deployments METHODS```
 
- <details close>
-<summary>Click to choose your favourite platform to Deploy</summary>
- 
-<br><br>   
+ <details close">
+<summary>Click to choose your favourite platform to Deploy</summary>   
  
    
 <h4 align="center"> Deploy on Repl.it
@@ -51,36 +49,7 @@
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-<br>
- 
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://github.com/codespaces/new">
-    <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
-</h4>
-
-</p>
-
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
+__________________________
 
 <br>
  
@@ -101,9 +70,6 @@
     __________________________
     <br>
 </p>
-
-
-
 <br>
 
 
@@ -121,64 +87,12 @@
     <br>
     __________________________
     <br>
-
-</p>
-
-
-
-<br>
-
-<h4 align="center"> Deploy on Mogenius
-</h4>
-  
-<p align="center">
-    <a href="https://studio.mogenius.com/">
-    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
-    </a>
-    
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on Uffizzi
-</h4>
-  
-<p align="center">
-    <a href="https://www.uffizzi.com/">
-    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
-    </a>
-    
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on BoxMineWorld
-</h4>
-  
-<p align="center">
-    <a href="https://dash.boxmineworld.com/">
-    <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
-    </a>
-    <br>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
 </p>
 
 </p>
 
 
-  
+
 ## ```𝘛𝘢𝘱 𝘈𝘯𝘺 𝘓𝘖𝘎𝘖 𝘛𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
  <p align="centre">
   <a href="mailto: rikamd1@mail.ru">
