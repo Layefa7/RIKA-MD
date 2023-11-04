@@ -34,10 +34,10 @@
  
 ---
 
-# THIS TIME  DEPLOY 
+#  DEPLOY FROM THESE OPTIONS 
 # ```Deployments METHODS```
 
- <details close">
+ 
 <summary>Click to choose your favourite platform to Deploy</summary>   
  
    
