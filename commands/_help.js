@@ -31,7 +31,7 @@ Secktor.cmd({
             alias: ["menu"],
             desc: "Help list",
             category: "general",
-            react: "📡",
+            react: "🎞️",
             filename: __filename
         },
         async(Void, citel, text) => {
@@ -60,29 +60,29 @@ Secktor.cmd({
                     .locale('id')
                 const date = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `┏━━━━◇ « ` + fancytext(Config.ownername.split(' ')[0], 38) + ` » ◇━━━┓\n`
+                let str = `┏━━━━☻︎ « ` + fancytext(Config.ownername.split(' ')[0], 38) + ` » ☻︎━━━┓\n`
                 str +=
-                    '```' + ` ╔═━───━═━───━◇
-« User:- ${citel.pushName}»
-« Theme:- ${tlang().title}»
-« Prefix:- [ ${prefix} ]»
-« Owner:- ${Config.ownername}»
-« Plugins:- ${commands.length}
-« Uptime:- ${runtime(process.uptime())}»
-« Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}»
-« Time:- ${time}»
-« Date:- ${date}»
-╚═━───━═━───━━───━◇\n
+                    '```' + ` ╔═━───━═━───━☻︎
+✰ User:- ${citel.pushName}»
+✰ Theme:- ${tlang().title}»
+✰ Prefix:- [ ${prefix} ]»
+✰ Owner:- ${Config.ownername}»
+✰ Plugins:- ${commands.length}
+✰ Uptime:- ${runtime(process.uptime())}»
+✰ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}»
+✰ Time:- ${time}»
+✰ Date:- ${date}»
+╚═━───━═━───━━───━☻︎\n
 ` + '```'
                 for (const category in cmds) 
                 {
-                   str += `┏━━━•❃ *${tiny(category)}* ❃•━━━┓\n` ;
+                   str += `┏━━━•𖣔 *${tiny(category)}* 𖣔•━━━┓\n` ;
                    if(text.toLowerCase() == category.toLowerCase()){ str = `┏━━━•❃ *${tiny(category)}* ❃•━━━┓\n` ;      
-                        for (const plugins of cmds[category]) { str += `◇ ${fancytext(plugins,1)}\n` ; }
+                        for (const plugins of cmds[category]) { str += `⍟ ${fancytext(plugins,1)}\n` ; }
                         str += `╚═━───━═━───━━───\n`  ;
                         break ;
                    }
-                   else { for (const plugins of cmds[category]) { str += `◇ ${fancytext(plugins,1)}\n` ; }
+                   else { for (const plugins of cmds[category]) { str += `⍟ ${fancytext(plugins,1)}\n` ; }
                          str += `╚═━───━═━───━━───\n`  ; 
                    }
   
@@ -107,7 +107,7 @@ Secktor.cmd({
             let str = `
 ┏━━━━━•❃〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙❃•━━━━━┓`
             str += `
-┃ ⛥┏━━━━━•❃°•°•━━━━━•❃°•°•      
+┃ 𖣔┏━━━━━•❃°•°•━━━━━•𖣔°•°•      
 •͙͙✧⃝•͙ User: ${citel.pushName}
 •͙͙✧⃝•͙ Theme: ${tlang().title}
 •͙͙✧⃝•͙│ Prefix: ${prefix}
