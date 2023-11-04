@@ -60,9 +60,9 @@ Secktor.cmd({
                     .locale('id')
                 const date = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `┏━━━━☻︎ « ` + fancytext(Config.ownername.split(' ')[0], 38) + ` » ☻︎━━━┓\n`
+                let str = `┏━━━━◇ « ` + fancytext(Config.ownername.split(' ')[0], 38) + ` » ◇━━━┓\n`
                 str +=
-                    '```' + ` ╔═━───━═━───━☻︎
+                    '```' + ` ╔═━───━═━───━◇
 ✰ User:- ${citel.pushName}»
 ✰ Theme:- ${tlang().title}»
 ✰ Prefix:- [ ${prefix} ]»
@@ -72,7 +72,7 @@ Secktor.cmd({
 ✰ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}»
 ✰ Time:- ${time}»
 ✰ Date:- ${date}»
-╚═━───━═━───━━───━☻︎\n
+╚═━───━═━───━━───━◇\n
 ` + '```'
                 for (const category in cmds) 
                 {
