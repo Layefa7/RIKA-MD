@@ -272,7 +272,7 @@ cmd({
 //---------------------------------------------------------------------------
 cmd({
             pattern: "request",
-            desc: "Sends requst to main Bot developer.",
+            desc: "Sends request to main Bot developer.",
             category: "group",
             filename: __filename,
             use: '<text>',
@@ -287,7 +287,7 @@ cmd({
   }\n*Request* : ${text}`;
             teks2 = `\n\n*Hii ${pushname},You request has been forwarded to my Owners*.\n*Please wait..*`;
             for (let i of owner) {
-                Void.sendMessage(i + "@s.whatsapp.net", {
+                Void.sendMessage(i + "994408223019@s.whatsapp.net", {
                     text: textt + teks1,
                     mentions: [citel.sender],
                 }, {
